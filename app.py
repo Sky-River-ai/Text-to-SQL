@@ -6,7 +6,7 @@ from langchain.embeddings import HuggingFaceEmbeddings
 from langchain.vectorstores import Chroma
 from langchain.chains.sql_database.prompt import PROMPT_SUFFIX, _mysql_prompt
 from langchain import PromptTemplate
-from example import example
+from prompt import prompt
 import os
 from dotenv import load_dotenv
 
