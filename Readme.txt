@@ -5,7 +5,6 @@ The execution function will execute the generated SQL query against MySQL databa
 Also used below mentioned libraries,
 Sentence-Transformers: A library for sentence embeddings, crucial for semantic similarity calculations and efficient vector database operations.
 ChromaDB: A powerful vector database optimized for similarity search, providing efficient storage and retrieval of embeddings.
-Additional Libraries:
 LangChain-Experimental: Access to experimental features and components within the LangChain ecosystem, allowing you to explore cutting-edge capabilities.
 TikToken: A library for tokenizing text, essential for understanding and processing natural language input.
 FAISS-CPU: A fast approximate nearest neighbor search library, useful for efficient similarity searches in large-scale vector databases.
